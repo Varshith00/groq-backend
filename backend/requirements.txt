@@ -6,3 +6,4 @@ groq
 faster-whisper
 pytesseract
 uvicorn
+python-multipart
