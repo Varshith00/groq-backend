@@ -1,0 +1,8 @@
+fastapi
+pydantic
+pillow
+python-dotenv
+groq
+faster-whisper
+pytesseract
+uvicorn
